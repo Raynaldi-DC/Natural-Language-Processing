@@ -27,4 +27,4 @@ This repository contains projects related to **Natural Language Processing (NLP)
 ---
 
 ## Navigation
-[| Main Menu ](https://github.com/Raynaldi-DC)[| Resume ](https://github.com/Raynaldi-DC/Resume)[| Certificates |](https://github.com/Raynaldi-DC/Certificates)
+[| Main Menu ](https://github.com/Raynaldi-DC)[| Resume ](https://github.com/Raynaldi-DC/Resume)[| Certificates ](https://github.com/Raynaldi-DC/Certificates)[| Portfolio Main Page |](https://github.com/Raynaldi-DC/Portofolio)
