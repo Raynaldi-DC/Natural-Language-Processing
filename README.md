@@ -19,10 +19,10 @@ This repository contains projects related to **Natural Language Processing (NLP)
 
 ## 🌐 Other Fields
 [| Portfolio Main Page |](https://github.com/Raynaldi-DC/Portofolio)  
-- [🧠 Natural Language Processing (NLP)](https://github.com/Raynaldi-DC/Natural-Language-Processing)  
-- [📘 Supervised Learning](https://github.com/Raynaldi-DC/Supervised-Learning)  
-- [📙 Unsupervised Learning](https://github.com/Raynaldi-DC/Unsupervised-Learning)  
-- [📈 Time Series](https://github.com/Raynaldi-DC/Time-Series)  
+- [🗣️ Natural Language Processing (NLP)](https://github.com/Raynaldi-DC/Natural-Language-Processing)  
+- [🧠 Supervised Learning](https://github.com/Raynaldi-DC/Supervised-Learning)  
+- [📊 Unsupervised Learning](https://github.com/Raynaldi-DC/Unsupervised-Learning)  
+- [📈 Time Series](https://github.com/Raynaldi-DC/Time-Series)   
 
 ---
 
