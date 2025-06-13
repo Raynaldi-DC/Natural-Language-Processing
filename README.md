@@ -1,4 +1,4 @@
-# 🧠 Natural Language Processing (NLP)
+# 🗣️ Natural Language Processing (NLP)
 This repository contains projects related to **Natural Language Processing (NLP)**. It focuses on processing and analyzing unstructured, human-generated text (natural language).
 
 ## 📁 Project List
