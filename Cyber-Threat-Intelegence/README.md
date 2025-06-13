@@ -31,11 +31,13 @@ Mapped Output:
 
 ## 📂 Project Structure
 ```
-TRAM/
+Cyber-Threat-Intelegence/
 ├── notebook/
-│   └── TRAM.ipynb          # Main notebook
-├── requirements.txt        # Python dependencies
-├── README.md               # Project documentation
+│   └── TRAM.ipynb                      # Main notebook
+│         └── Data/         
+│               └── single_label.json   # JSON Data
+├── requirements.txt                    # Python dependencies
+├── README.md                           # Project documentation
 ```
 
 ## 💻 Installation & Usage
